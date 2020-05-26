@@ -16,4 +16,4 @@ A Flutter UI project.
         
 
 ScreenShots - 
-<img src="screenshots/Blog-App.png">
+<img src="screenshots/blogapp1.png">
