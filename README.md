@@ -7,7 +7,7 @@
 
 ### Project Screenshots
 
-<img src="screenshots/blogapp1.png" alt="project-screenshot" height="400/">
+<img src="screenshots/blogapp1.png" alt="project-screenshot">
 
 ---
 
